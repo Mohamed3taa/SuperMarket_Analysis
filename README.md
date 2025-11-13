@@ -5,13 +5,11 @@ This project represents a full **Data Analysis pipeline** for a supermarket data
 
 The goal is to analyze sales, customer behavior, and product performance to gain business insights and visualize them clearly.
 
-![Dashboard Preview]([Dashboards/SalesOverview.png](https://github.com/Mohamed3taa/SuperMarket_Analysis/blob/0884ab26b3c6b44f6902580eb47af8b64d5871f0/Dashboards/Sales%20Overview.png))
-
 ---
 
 ## 👥 Team Members
-- **Noor Fared**  
-- **Mohamed Ataa**  
+- **Mohamed Ataa** 
+- **Noor Fared**   
 - **Omar Mahmoud**
 
 ---
