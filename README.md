@@ -5,7 +5,7 @@ This project represents a full **Data Analysis pipeline** for a supermarket data
 
 The goal is to analyze sales, customer behavior, and product performance to gain business insights and visualize them clearly.
 
-![Dashboard Preview](Dashboards/Sales_Overview.png)
+![Dashboard Preview](Dashboards/Sales Overview.png)
 
 ---
 
